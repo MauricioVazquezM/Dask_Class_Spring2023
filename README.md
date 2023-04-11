@@ -1,7 +1,7 @@
 # Dask_Class
 
 <p align="center">
-  <img width="460" height="300" src="https://seeklogo.com/images/D/dask-logo-E2158E0CA9-seeklogo.com.png">
+  <img width="400" height="400" src="https://seeklogo.com/images/D/dask-logo-E2158E0CA9-seeklogo.com.png">
 </p>
 
 
