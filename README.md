@@ -1,6 +1,8 @@
 # Dask_Class
 
-<center>![image](https://seeklogo.com/images/D/dask-logo-E2158E0CA9-seeklogo.com.png)</center>
+<p align="center">
+![image](https://seeklogo.com/images/D/dask-logo-E2158E0CA9-seeklogo.com.png)
+</p>
 
 
 Dask es una biblioteca de código abierto diseñada para proporcionar paralelismo a la pila de Python existente. Dask proporciona integraciones con bibliotecas de Python como NumPy Arrays, Pandas DataFrames y scikit-learn para permitir la ejecución paralela en varios núcleos, procesadores y computadoras, sin tener que aprender nuevas bibliotecas o lenguajes.
