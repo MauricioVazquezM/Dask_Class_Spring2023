@@ -130,3 +130,6 @@ dmypy.json
 
 # contrasenha
 common.env
+
+# Zone identifier
+*.Zone.Identifier
