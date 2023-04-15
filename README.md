@@ -17,8 +17,7 @@ Dask es una biblioteca de código abierto diseñada para proporcionar paralelism
 
 ## Presentacion
 
-- Contenido de la presentacion
-
+- Contenido de la presentacion:
   - ¿QUÉ ES DASK?
   - ¿POR QUÉ DASK?
   - Características
@@ -39,8 +38,7 @@ Dask es una biblioteca de código abierto diseñada para proporcionar paralelism
 
 ## Resources
 
--  Contenido de [resources](Resoruces/resources.txt)
-
+-  Contenido de [resources](Resources/resources.txt):
   - Recursos
   - Videos
 
