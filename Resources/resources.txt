@@ -4,7 +4,7 @@ En esta seccion, se encontraran los links de los recursos o bibiliografias usada
 RECURSOS:
 
 1.  Dask Org: https://www.dask.org/
-2.  
+2.  Dask Documentation: https://docs.dask.org/en/stable/10-minutes-to-dask.html
 3.  
 4.  
 5.  
