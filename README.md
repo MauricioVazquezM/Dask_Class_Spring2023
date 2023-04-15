@@ -17,11 +17,13 @@ Dask es una biblioteca de código abierto diseñada para proporcionar paralelism
 
 ## Presentacion
 
-- ¿QUÉ ES DASK?
-- ¿POR QUÉ DASK?
-- Características
-- Ventajasde usar Dask
-- Integrados con Dask
+- Contenido de la presentacion
+
+  - ¿QUÉ ES DASK?
+  - ¿POR QUÉ DASK?
+  - Características
+  - Ventajasde usar Dask
+  - Integrados con Dask
 
 ## Codigo
 
@@ -37,12 +39,15 @@ Dask es una biblioteca de código abierto diseñada para proporcionar paralelism
 
 ## Resources
 
-- Recursos
-- Videos
+-  Contenido de [resources](Resoruces/resources.txt)
+
+  - Recursos
+  - Videos
 
 ## Instrucciones Evalucacion
 
-- NOTAR: ES JUSTO COMO LO HICIMOS EN CLASE DE MARIO!!
+- NOTAR: ES JUSTO COMO LO HICIMOS EN CLASE DE MARIO !!
+
  1. Hacer su fork y clonar localmente su repositorio.
  2. Hacer evaluacion, la cual se encuentra en la carpeta de codigo de la siguiente manera: [evaluacion](Codigo/evaluacion.ipynb).
  3. Dentro de una carpeta con su nombre y sus ultimos dos digitos de su clave unica ( ej. Mariana_48 ), subir tarea en la carpeta de [Evaluaciones](Evaluaciones).
