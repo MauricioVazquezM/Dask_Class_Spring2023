@@ -15,7 +15,7 @@ RECURSOS:
 
 VIDEOS:
 
-1.  
+1.  Dask in 15 Minutes | Machine Learning & Data Science Open-source Spotlight: https://www.youtube.com/watch?v=Alwgx_1qsj4&t=9s
 2.  
 3.  
 4.  
