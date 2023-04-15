@@ -6,8 +6,8 @@ RECURSOS:
 1.  Dask Org: https://www.dask.org/
 2.  Dask Documentation: https://docs.dask.org/en/stable/10-minutes-to-dask.html
 3.  Shuffling for GroupBy and Join: https://docs.dask.org/en/stable/dataframe-groupby.html#dataframe-groupby-aggregate
-4.  
-5.  
+4.  Client: https://distributed.dask.org/en/stable/client.html
+5.  Dask Distributed: https://distributed.dask.org/en/stable/
 
 
 
