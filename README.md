@@ -27,10 +27,10 @@ Dask es una biblioteca de código abierto diseñada para proporcionar paralelism
 
 ## Codigo
 
--  Introducción a Dask
--  [Dask Dataframes](Codigo/dask_dataframes.ipynb)
--  Dask-paralelo
--  Dask-distribuido
+-  [Dask Basics](Codigo/basics.ipynb)
+-  [Dask Data Structures](Codigo/dask_data_structures.ipynb)
+-  [Dask vs Pandas](Codigo/dask_vs_pandas.ipynb)
+-  [Dask Distribuido](Codigo/dask_distribuido.ipynb)
 
 ## Ejercicios
 
