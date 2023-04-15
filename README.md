@@ -38,7 +38,7 @@ Dask es una biblioteca de código abierto diseñada para proporcionar paralelism
 
 ## Resources
 
--  Contenido de resources:
+- Contenido de resources:
   - Recursos
   - Videos
 
