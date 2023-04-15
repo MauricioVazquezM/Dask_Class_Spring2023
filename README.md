@@ -10,7 +10,7 @@ Dask es una biblioteca de código abierto diseñada para proporcionar paralelism
 ### Tabla de contenidos
   - [Presentacion](#presentacion)
   - [Codigo](#codigo)
-  - [Ejercicios](#ejercicios)
+  - [Evaluaciones](#evaluaciones)
   - [Resources](#resources)
   - [Instrucciones Evaluacion](#instrucciones-evalucacion)
 
@@ -29,10 +29,10 @@ Dask es una biblioteca de código abierto diseñada para proporcionar paralelism
 -  [Dask Data Structures](Codigo/dask_data_structures.ipynb)
 -  [Dask vs Pandas](Codigo/dask_vs_pandas.ipynb)
 -  [Dask Distribuido](Codigo/dask_distribuido.ipynb)
+-  [Evaluacion](Codigo/evaluacion.ipynb)
 
-## Ejercicios
+## Evaluaciones
 
-- 
 -
 
 ## Resources
@@ -45,5 +45,5 @@ Dask es una biblioteca de código abierto diseñada para proporcionar paralelism
 - NOTAR: ES JUSTO COMO LO HICIMOS EN CLASE DE MARIO!!
  1. Hacer su fork y clonar localmente su repositorio.
  2. Hacer evaluacion, la cual se encuentra en la carpeta de codigo.
- 3. Dentro de una carpeta con su nombre y sus ultimos dos digitos de su clave unica ( ej. Mariana_48 ), subir tarea en la carpeta de 'Evaluaciones'.
+ 3. Dentro de una carpeta con su nombre y sus ultimos dos digitos de su clave unica ( ej. Mariana_48 ), subir tarea en la carpeta de [Evaluaciones](Evaluaciones).
 
