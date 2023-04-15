@@ -133,3 +133,9 @@ common.env
 
 # Zone identifier
 *.Zone.Identifier
+
+# Gitignore
+.gitignore
+
+# Evaluaciones classmates
+
