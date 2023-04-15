@@ -1,4 +1,4 @@
-# Dask_Class_Spring2023
+# Dask Class Spring 2023
 
 <p align="center">
   <img width="400" height="400" src="https://seeklogo.com/images/D/dask-logo-E2158E0CA9-seeklogo.com.png">
