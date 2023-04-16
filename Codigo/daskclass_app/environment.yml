@@ -8,4 +8,5 @@ dependencies:
   - numpy
   - pandas
   - urllib
+  - graphviz
 
