@@ -9,4 +9,6 @@ dependencies:
   - pandas
   - urllib
   - graphviz
+  - xarray
+  - pooch
 

@@ -8,6 +8,8 @@ RECURSOS:
 3.  Shuffling for GroupBy and Join: https://docs.dask.org/en/stable/dataframe-groupby.html#dataframe-groupby-aggregate
 4.  Client: https://distributed.dask.org/en/stable/client.html
 5.  Dask Distributed: https://distributed.dask.org/en/stable/
+6.  Configuring a Distributed Dask Cluster: https://blog.dask.org/2020/07/30/beginners-config
+7.  Setting up a DASK cluster on your local machine: https://mom6-analysiscookbook.readthedocs.io/en/latest/notebooks/setting_up_dask_localcluster.html#Sample-computation:
 
 
 
@@ -16,7 +18,7 @@ RECURSOS:
 VIDEOS:
 
 1.  Dask in 15 Minutes | Machine Learning & Data Science Open-source Spotlight: https://www.youtube.com/watch?v=Alwgx_1qsj4&t=9s
-2.  
+2.  A Dask Setup Guide: https://www.youtube.com/watch?v=TQM9zIBzNBo&t=5s
 3.  
 4.  
 5.  
