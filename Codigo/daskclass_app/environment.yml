@@ -1,0 +1,11 @@
+channels: 
+  - defaults
+dependencies: 
+  - dask
+  - jupyterlab
+  - notebook
+  - pip
+  - numpy
+  - pandas
+  - urllib
+

@@ -1,0 +1,20 @@
+## Version del formato de docker-compose
+version: "3.8"
+
+services: 
+  joblib_app :
+    # Construye el docker especificado en esa carpeta
+    build: 
+      context: ./daskclass_app
+      
+    container_name: daskclass_app
+    # Ejecutar hasta que el servicio exista
+    ports:
+      - '8787:8787'
+    stdin_open: true # docker run -i
+    tty: true # docker run -t 
+    # "no": nunca, "always":siempre, "on-failure":lo reinicia si el contenedor devuelve un estado de error,
+    # "unless-stopped": lo reinicia en todos los casos excepto cuando se detiene
+    restart: "on-failure"  
+    volumes:
+      - ./daskclass_app:/daskclass_app
