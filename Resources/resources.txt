@@ -19,6 +19,6 @@ VIDEOS:
 
 1.  Dask in 15 Minutes | Machine Learning & Data Science Open-source Spotlight: https://www.youtube.com/watch?v=Alwgx_1qsj4&t=9s
 2.  A Dask Setup Guide: https://www.youtube.com/watch?v=TQM9zIBzNBo&t=5s
-3.  
-4.  
-5.  
+3.  PyConAr 2021 - Introducción a Dask: https://www.youtube.com/watch?v=16-FB4zzJDk
+4.  Dask en 8 minutos: https://www.youtube.com/watch?v=nnndxbr_Xq4
+5.  Limitaciones de Pandas - Pandas vs Dask vs PySpark - Cursos de DataMites: https://www.youtube.com/watch?v=YLg4vuIADnQ
