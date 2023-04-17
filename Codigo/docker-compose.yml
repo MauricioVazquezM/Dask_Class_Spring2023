@@ -10,7 +10,7 @@ services:
     container_name: daskclass_app
     # Ejecutar hasta que el servicio exista
     ports:
-      - '8787:8787'
+      - '8787:8888'
     stdin_open: true # docker run -i
     tty: true # docker run -t 
     # "no": nunca, "always":siempre, "on-failure":lo reinicia si el contenedor devuelve un estado de error,

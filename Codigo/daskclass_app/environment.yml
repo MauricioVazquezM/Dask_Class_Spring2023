@@ -6,11 +6,9 @@ dependencies:
   - pip
   - numpy
   - pandas
-  - urllib
   - graphviz
   - xarray
   - pooch
-  - os
   - pip:
     - dask
 
