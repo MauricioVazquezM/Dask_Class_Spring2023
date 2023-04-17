@@ -41,7 +41,7 @@ Dask es una biblioteca de código abierto diseñada para proporcionar paralelism
 
 - NOTAR: ES JUSTO COMO LO HICIMOS EN EL EXAMEN DE SKALAS !!
 
- 1. Hacer CLICK en el siguiente vinculo: [valuacion](https://classroom.github.com/a/5OLo4bUg).
+ 1. Hacer CLICK en el siguiente vinculo: [evaluacion](https://classroom.github.com/a/5OLo4bUg).
  2. Buscar tu nombre en la lista despegable.
  3. Trabaja en el archivo evaluacion y, al finalizar, dale commit.
 
