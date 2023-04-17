@@ -2,7 +2,7 @@
 version: "3.8"
 
 services: 
-  joblib_app :
+  daskclass_app :
     # Construye el docker especificado en esa carpeta
     build: 
       context: ./daskclass_app

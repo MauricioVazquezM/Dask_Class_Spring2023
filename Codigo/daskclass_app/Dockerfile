@@ -25,9 +25,9 @@ RUN conda init bash
 RUN conda update -n base -c defaults conda
 
 # Instalar librerias necesarias
-WORKDIR /joblib_app
-COPY environment.yml /joblib_app/environment.yml
-RUN conda env update --name base --file /joblib_app/environment.yml --verbose
+WORKDIR /daskclass_app
+COPY environment.yml /daskclass_app/environment.yml
+RUN conda env update --name base --file /daskclass_app/environment.yml --verbose
 ENTRYPOINT ["conda", "run","-n", "base", "jupyter", "lab","--ip=0.0.0.0","--allow-root", "--NotebookApp.token=''","--NotebookApp.password=''"]
 
 
