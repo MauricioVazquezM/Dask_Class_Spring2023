@@ -11,7 +11,7 @@ Dask es una biblioteca de código abierto diseñada para proporcionar paralelism
   - [Presentacion](#presentacion)
   - [Codigo](#codigo)
   - [Resources](#resources)
-  - [Instrucciones Evaluacion](#instrucciones-evalucacion)
+  - [Instrucciones Evaluacion](#instrucciones-evaluacion)
 
 
 ## Presentacion
