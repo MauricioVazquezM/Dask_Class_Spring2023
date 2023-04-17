@@ -10,7 +10,6 @@ Dask es una biblioteca de código abierto diseñada para proporcionar paralelism
 ### Tabla de contenidos
   - [Presentacion](#presentacion)
   - [Codigo](#codigo)
-  - [Evaluaciones](#evaluaciones)
   - [Resources](#resources)
   - [Instrucciones Evaluacion](#instrucciones-evalucacion)
 
@@ -32,11 +31,6 @@ Dask es una biblioteca de código abierto diseñada para proporcionar paralelism
   -  [Dask Distribuido](Codigo/daskclass_app/dask_distribuido.ipynb)
   -  [Evaluacion](Codigo/daskclass_app/evaluacion.ipynb)
 
-## Evaluaciones
-
-- ¡ AQUI IRA SU CARPETA CON SU RESPECTIVA TAREA !
-- https://classroom.github.com/a/5OLo4bUg
-
 ## Resources
 
 - Contenido de [resources](Resources/resources.txt):
@@ -45,9 +39,9 @@ Dask es una biblioteca de código abierto diseñada para proporcionar paralelism
 
 ## Instrucciones Evaluacion
 
-- NOTAR: ES JUSTO COMO LO HICIMOS EN CLASE DE MARIO !!
+- NOTAR: ES JUSTO COMO LO HICIMOS EN EL EXAMEN DE SKALAS !!
 
- 1. Hacer su fork y clonar localmente su repositorio.
- 3. Hacer evaluacion, la cual se encuentra en la carpeta de codigo de la siguiente manera: [evaluacion](Codigo/evaluacion.ipynb).
- 4. Dentro de una carpeta con su nombre y sus ultimos dos digitos de su clave unica ( ej. Mariana_48 ), subir tarea en la carpeta de [Evaluaciones](Evaluaciones).
+ 1. Hacer CLICK en el siguiente vinculo: [valuacion](https://classroom.github.com/a/5OLo4bUg).
+ 2. Buscar tu nombre en la lista despegable.
+ 3. Trabaja en el archivo evaluacion y, al finalizar, dale commit.
 
