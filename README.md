@@ -42,7 +42,7 @@ Dask es una biblioteca de código abierto diseñada para proporcionar paralelism
   - Recursos
   - Videos
 
-## Instrucciones Evalucacion
+## Instrucciones Evaluacion
 
 - NOTAR: ES JUSTO COMO LO HICIMOS EN CLASE DE MARIO !!
 

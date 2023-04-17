@@ -1,7 +1,6 @@
 channels: 
   - defaults
 dependencies: 
-  - dask
   - jupyterlab
   - notebook
   - pip
@@ -11,4 +10,7 @@ dependencies:
   - graphviz
   - xarray
   - pooch
+  - os
+  - pip:
+    - dask
 
